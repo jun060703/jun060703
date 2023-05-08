@@ -22,9 +22,9 @@ backend-developer and security Plans for the future
 
 ## stack
 -python  
--java 
--javascipt
--html/css  
+-java   
+-javascipt  
+-html/css    
 -vscode  
 -eclips
 
