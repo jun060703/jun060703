@@ -24,4 +24,6 @@ backend-developer and securityPlans for the future
 -html/css  
 -python
 
+<code><img alt = "3.1 Python" height="20" src="C:\Users\407\Downloads\java (1).png"> java</code>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun060703&show_icons=true&theme=radical)
