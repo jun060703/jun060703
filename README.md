@@ -22,7 +22,8 @@ backend-developer and securityPlans for the future
 ## stack
 -java  
 -html/css  
--python
+-python  
+
 
 
 
