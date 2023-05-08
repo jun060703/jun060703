@@ -20,8 +20,8 @@ backend-developer and securityPlans for the future
 -none
 
 ## stack
--java
--html/css
+-java  
+-html/css  
 -python
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun060703&show_icons=true&theme=radical)
