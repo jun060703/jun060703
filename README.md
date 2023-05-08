@@ -22,4 +22,4 @@ backend-developer and securityPlans for the future
 ## stack
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun060703&show_icons=true&theme=radical) <img src="https://raw.githubusercontent.com/jun060703/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun060703&show_icons=true&theme=radical) <img src="https://raw.githubusercontent.com/jun060703/github-stats-transparent](https://github.com/jun060703)/output/generated/languages.svg" width="49.2%" />
