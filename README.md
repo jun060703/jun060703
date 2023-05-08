@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # kwonjun
-backend-developer and securityPlans for the future
+backend-developer and security Plans for the future
 
 ## history
 -none
