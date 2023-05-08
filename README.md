@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 -->
 # kwonjun
 backend-developer and security Plans for the future
-
+안녕하세요😊저는 백엔드공부를 하고있습니다. 나중에 정보보안도 하고싶습니다
 ## history
 -none
 
 ## stack
--java  
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 -html/css  
 -python  
 
