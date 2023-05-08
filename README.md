@@ -21,12 +21,12 @@ backend-developer and security Plans for the future
 -none
 
 ## stack
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">  
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">  
-
-
+-python  
+-java 
+-javascipt
 -html/css  
+-vscode  
+-eclips
 
 
 
