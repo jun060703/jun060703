@@ -21,6 +21,7 @@ backend-developer and security Plans for the future
 
 ## stack
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
 -html/css  
 -python  
 
