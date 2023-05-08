@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **jun060703/jun060703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +16,13 @@ Here are some ideas to get you started:
 # kwonjun
 backend-developer and securityPlans for the future
 
+## history
+-none
+
+## stack
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun060703&show_icons=true&theme=radical)
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
+</a>
