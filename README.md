@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # kwonjun
-backend-developer and security Plans for the future  
-안녕하세요😊저는 백엔드 공부를 하고있습니다.   
-나중에 기회가 된다면 정보보안도 하고싶습니다
+java를 주로 공부하는 중입니다.😄
 ## history
 -none
 
