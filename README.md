@@ -20,7 +20,7 @@ java와 python을 주로 공부하는 중입니다.😄
 
 ## stack
 -python  
--java    
+-java  
 -oracle
 -javascipt  
 -html/css
