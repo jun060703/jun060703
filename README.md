@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # kwonjun
-java를 주로 공부하는 중입니다.😄
+java와 python을 주로 공부하는 중입니다.😄
 ## history
 -none
 
@@ -22,10 +22,8 @@ java를 주로 공부하는 중입니다.😄
 -python  
 -java   
 -javascipt  
--html/css    
--vscode  
--eclips
-
+-html/css
+-oracle
 
 
 
