@@ -30,4 +30,5 @@ java와 python을 주로 공부하는 중입니다.😄
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun060703&show_icons=true&theme=radical)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={jun060703}&langs_count=10&layout=compact&theme=dark)](https://github.com/{jun060703})
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?jun060703=peter&langs_count=10$layout=compact)]()
